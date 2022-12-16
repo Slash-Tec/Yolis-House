@@ -1,8 +1,14 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
 }
-p{
+p {
   background-color: rgba(201, 76, 76, 0.3);
+}
+h6 {
+  font-size: 25px;
+  font-family: Lato;
+  background-color: rgba(201, 76, 76, 0.7);
 }
 body {
   font-size: 28px;
@@ -36,5 +42,5 @@ li a:hover {
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #4caf50;
 }
